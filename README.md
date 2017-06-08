@@ -8,7 +8,7 @@ Planned features:
 * Trim times for each file. Right now, manually have to trim with a different program before conversion.
 * Create OGA (Vorbis) only files.
 * WebM output; VP8+Vorbis and VP9+Opus
-* Incorperate other HTML5 proposed formats for <audio> and <video> tags.
+* Incorperate other HTML5 proposed formats for \<audio\> and \<video\> tags.
 
 FFmpeg
 * By Fabrice Bellard, FFmpeg Team
