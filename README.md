@@ -6,8 +6,8 @@ This app is designed to be portable. I won't subject users to use installer prog
 It's very easy to use to batch convert files to be in Theora+Vorbis format in an OGV container. Complexity will change later but I will try to keep it easy. Consider version 1 a proof of concept.
 
 You can change quality settings, but these are the recommended values for the best balance between quality and file size:
-Theora quality: 7
-Vorbis quality: 5
+* Theora quality: 7
+* Vorbis quality: 5
 These values can be changed from 0-10, 0 meaning high lossy compression and 10 meaning minimal lossy compression. Use these settings to tweak your desired file size.
 
 When converting, a command line window will pop-up and the main window will be locked. This is normal. Conversion of all files are complete when you have full control of the main window again. I plan on making this more clearly communicative than it currently is now.
