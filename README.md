@@ -1,7 +1,7 @@
 # FFMPEG-To-Theora-Vorbis-OGG-File-GUI
 Create OGG Video Container Files From Non-OGG Sources
 
-This app is designed to be portable. I won't subject users to use installer programs. I rather start off as trustworthy. Just excract the exe wherever you desire, preferably on your desktop.
+This app is designed to be portable. I won't subject users to use installer programs. I rather start off as trustworthy. Just extract the exe wherever you desire, preferably on your desktop.
 
 It's very easy to use to batch convert files to be in Theora+Vorbis format in an OGV container. Complexity will change later but I will try to keep it easy. Consider version 1 a proof of concept.
 
