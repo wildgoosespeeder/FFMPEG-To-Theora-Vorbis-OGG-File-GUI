@@ -4,7 +4,7 @@ Create OGG Video Container Files From Non-OGG Sources
 Requires FFMPEG exe from the website, preferrably a nightly build:
 * http://ffmpeg.zeranoe.com/builds
 
-Planned features:
+Planned features, from highest priority to lowest priority:
 * Trim times for each file. Right now, manually have to trim with a different program before conversion.
 * Create OGA (Vorbis) only files.
 * WebM output; VP8+Vorbis and VP9+Opus
