@@ -20,3 +20,8 @@ FFmpeg
 OGG, Vorbis, Opus, and Theora
 * By Xiph.Org Foundation
 * https://www.xiph.org
+
+Icon:
+I'm not creative when it comes to icons, so I mashed-up the following:
+* https://commons.wikimedia.org/wiki/File:FFmpeg_Logo_new.svg
+* https://commons.wikimedia.org/wiki/File:Xiph.Org_logo_square.svg
